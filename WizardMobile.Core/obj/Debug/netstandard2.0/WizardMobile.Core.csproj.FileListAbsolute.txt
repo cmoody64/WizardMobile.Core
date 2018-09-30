@@ -1,0 +1,9 @@
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\bin\Debug\netstandard2.0\WizardMobile.Core.deps.json
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\bin\Debug\netstandard2.0\WizardMobile.Core.dll
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\bin\Debug\netstandard2.0\WizardMobile.Core.pdb
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\obj\Debug\netstandard2.0\WizardMobile.Core.csprojAssemblyReference.cache
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\obj\Debug\netstandard2.0\WizardMobile.Core.csproj.CoreCompileInputs.cache
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\obj\Debug\netstandard2.0\WizardMobile.Core.AssemblyInfoInputs.cache
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\obj\Debug\netstandard2.0\WizardMobile.Core.AssemblyInfo.cs
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\obj\Debug\netstandard2.0\WizardMobile.Core.dll
+C:\Users\cdmoo\source\repos\WizardMobile\WizardMobile.Core\obj\Debug\netstandard2.0\WizardMobile.Core.pdb
